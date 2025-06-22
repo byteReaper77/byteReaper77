@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 About Me  
-I am a seasoned Offensive Cyber Weapons Architect with over 8 years of deep expertise in exploit development, kernel exploitation, bypass techniques, and penetration testing.  
+I am a seasoned Offensive Cyber Weapons Architect with over 7 years of deep expertise in exploit development, kernel exploitation, bypass techniques, and penetration testing.  
 I combine advanced research, strategic planning, and coding mastery to build cutting-edge offensive tools and frameworks.
 
 ---
