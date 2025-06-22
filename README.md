@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Byte Reaper
 
-**Offensive Cyber Weapons Architect | Kernel Exploit Developer | Security Researcher**
+**Offensive Cyber Weapons Architect | Security Researcher**
 
 ---
 
