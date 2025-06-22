@@ -42,13 +42,17 @@ My GitHub hosts several proof-of-concept (PoC) exploits and advanced tools, incl
 - Integrate AI to automate exploit generation and fuzzing processes  
 ---
 
-## 🚀 What’s Next?  
-I am currently developing elite offensive cyber weaponry frameworks and tools that will include:  
-- Sophisticated exploit frameworks with automated PoC generation  
-- AI-powered fuzzers and kernel bypass suites  
-- Advanced network attack tools and stealthy zero-day exploit kits  
+🚀 What’s Next?
+I am actively developing a suite of elite offensive cyber weaponry frameworks and tools that will be exclusively released on my dedicated platform. Key upcoming projects include:
 
-These will be released soon via my dedicated platform.
+Kernel Subsystem Fuzzer with Auto-Exploit capabilities
+
+UEFI Bootkit with Secure Boot bypass techniques
+
+Cross-VM Microarchitectural Attack leveraging SR-IOV technology
+
+...and many more advanced offensive tools designed to push the boundaries of cybersecurity.
+
 
 ---
 
