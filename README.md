@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Byte Reaper
+#  Byte Reaper
 
 **Offensive Cyber Weapons Architect | Security Researcher**
 
@@ -64,3 +64,4 @@ Cross-VM Microarchitectural Attack leveraging SR-IOV technology
 ---
 
 *Feel free to reach out or explore my work!*
+
