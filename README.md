@@ -1,11 +1,11 @@
 #  Byte Reaper
 
-**Offensive Cyber Weapons Architect | Security Researcher**
+**Exploit Developer | Security Researcher**
 
 ---
 
 ## 🎯 About Me  
-I am a seasoned Offensive Cyber Weapons Architect with over 7 years of deep expertise in exploit development, kernel exploitation, bypass techniques, and penetration testing.  
+I am a seasoned Offensive Exploit Developer with over 7 years of deep expertise in exploit development, kernel exploitation, bypass techniques, and penetration testing.  
 I combine advanced research, strategic planning, and coding mastery to build cutting-edge offensive tools and frameworks.
 
 ---
@@ -64,4 +64,5 @@ Cross-VM Microarchitectural Attack leveraging SR-IOV technology
 ---
 
 *Feel free to reach out or explore my work!*
+
 
