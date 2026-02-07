@@ -1,16 +1,14 @@
-#  Byte Reaper
+#  Byte Reaper 
 
-**Exploit Developer | Security Researcher**
+**N-day Proff MM / exploit development MM**
 
----
-
-## 🎯 About Me  
+##  About   
 I am a seasoned Offensive Exploit Developer with over 7 years of deep expertise in exploit development, kernel exploitation, bypass techniques, and penetration testing.  
 I combine advanced research, strategic planning, and coding mastery to build cutting-edge offensive tools and frameworks.
 
----
 
-## 💻 Published Work on GitHub  
+
+## Published Work on GitHub  
 My GitHub hosts several proof-of-concept (PoC) exploits and advanced tools, including but not limited to:
 
 - **CVE-2025-36041 IBM MQ SSL Bypass Exploit**  
@@ -35,14 +33,14 @@ My GitHub hosts several proof-of-concept (PoC) exploits and advanced tools, incl
 
 ---
 
-## 🧠 Core Strengths  
+## Core Strengths  
 - Expert in reverse engineering and strategic offensive planning  
 - Proficient in C, C++, Assembly (x86/x64), Python, Ruby, Perl, Go, PHP  
 - Skilled in kernel exploitation, fuzzing, and bypass techniques  
 - Integrate AI to automate exploit generation and fuzzing processes  
 ---
 
-🚀 What’s Next?
+ What’s Next?
 I am actively developing a suite of elite offensive cyber weaponry frameworks and tools that will be exclusively released on my dedicated platform. Key upcoming projects include:
 
 Kernel Subsystem Fuzzer with Auto-Exploit capabilities
@@ -56,13 +54,14 @@ Cross-VM Microarchitectural Attack leveraging SR-IOV technology
 
 ---
 
-## 🌐 Find Me Online  
+##  Find Me Online  
 - GitHub: [github.com/byteReaper77](https://github.com/byteReaper77)  
 - X : https://x.com/byte_reaper
 - My platform : https://bytrep.com/
 ---
 
 *Feel free to reach out or explore my work!*
+
 
 
 
