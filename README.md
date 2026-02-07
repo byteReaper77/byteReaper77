@@ -1,10 +1,10 @@
-#  Byte Reaper 
+##  Byte Reaper 
 
 **N-day Proff MM / exploit development MM**
 
-##  About   
-I am a seasoned Offensive Exploit Developer with over 7 years of deep expertise in exploit development, kernel exploitation, bypass techniques, and penetration testing.  
-I combine advanced research, strategic planning, and coding mastery to build cutting-edge offensive tools and frameworks.
+#  About   
+Specialized in exploit development and N-day proofing within memory management components.
+I adopt a scientific methodology to challenge design assumptions and formally refute hypotheses, leveraging mathematical reasoning and failures in ownership and lifetime management models.
 
 
 
@@ -61,6 +61,7 @@ Cross-VM Microarchitectural Attack leveraging SR-IOV technology
 ---
 
 *Feel free to reach out or explore my work!*
+
 
 
 
